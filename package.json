@@ -1,0 +1,20 @@
+{
+  "name": "get-control-points",
+  "version": "1.0.0",
+  "description": "get control points for a bezier curve given start, end, and base",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard index.js && tap test.js"
+  },
+  "keywords": [
+    "control",
+    "points",
+    "bezier"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "devDependencies": {
+    "semistandard": "^7.0.2",
+    "tap": "^1.4.1"
+  }
+}
