@@ -13,7 +13,7 @@ thanks to http://scaledinnovation.com/analytics/splines/aboutSplines.html
 
 * `a` **`Array<number>`** start point
 * `b` **`Array<number>`** end point
-* `base` **`number`** 
+* `base` **`number`**
 
 
 ### Examples
