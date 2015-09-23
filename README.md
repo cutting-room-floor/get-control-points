@@ -1,5 +1,7 @@
 # getControlPoints
 
+[![build status](https://secure.travis-ci.org/mapbox/get-control-points.svg)](http://travis-ci.org/mapbox/get-control-points)
+
 Barebones method for deriving control points given start, end, and base.
 An implementation of http://scaledinnovation.com/analytics/splines/aboutSplines.html
 
