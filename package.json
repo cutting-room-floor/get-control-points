@@ -16,5 +16,9 @@
   "devDependencies": {
     "semistandard": "^7.0.2",
     "tap": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mapbox/get-control-points.git"
   }
 }
