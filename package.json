@@ -1,6 +1,6 @@
 {
   "name": "get-control-points",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get control points for a bezier curve given start, end, and base",
   "main": "index.js",
   "scripts": {
